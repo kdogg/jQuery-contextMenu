@@ -1,1 +1,1 @@
-/home/ken/WTS/wtswiki/d.ts/jquery.contextMenu.d.ts
+../../../d.ts/jquery.contextMenu.d.ts
